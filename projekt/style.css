@@ -1,0 +1,9 @@
+.grid
+{
+    display: grid;
+}
+
+.inbild{
+    display: flex;
+    flex-direction: column;
+}
